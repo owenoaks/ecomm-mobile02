@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "ecomm-mobile",
+    "name": "ecomm-mobile02",
     "slug": "ecomm-mobile",
+    "scheme": "ecomm-native2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
